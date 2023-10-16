@@ -1,0 +1,1 @@
+red_background, flag_background, red_theme, no_humans, red_sky, rising_sun, food, red_border, sunburst, torii, foshan_lion

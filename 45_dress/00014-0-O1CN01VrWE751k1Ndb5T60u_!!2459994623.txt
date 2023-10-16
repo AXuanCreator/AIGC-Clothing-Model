@@ -1,0 +1,1 @@
+blurry, blurry_background, blurry_foreground, depth_of_field, photo_\(medium\), photo_background, motion_blur, chromatic_aberration, street, pants, outdoors, hat, Yu

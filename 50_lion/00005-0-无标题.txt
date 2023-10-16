@@ -1,0 +1,1 @@
+blurry, blurry_background, blurry_foreground, depth_of_field, photo_\(medium\), motion_blur, photo_background, blue_sky, day, 3d, city, ferris_wheel, photo_inset, stadium, sky, building, focused, outdoors, foshan_lion
